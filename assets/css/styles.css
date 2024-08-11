@@ -504,7 +504,7 @@ a {
      color: #7a7a7e;
      white-space: nowrap;
 }
-.footer .desc{
+.footer .desc {
      white-space: normal;
      line-height: 1.75;
 }
@@ -519,7 +519,7 @@ a {
      justify-content: center;
      border-radius: 3px;
 }
-.footer .social-link:hover{
+.footer .social-link:hover {
      background: #ebebeb;
 }
 .footer .row-bottom {
