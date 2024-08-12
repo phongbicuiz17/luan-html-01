@@ -153,8 +153,8 @@ a {
      height: 90px;
      border-radius: 12px;
 }
-.clients .images a:hover{
-     box-shadow: 0px 10px 20px rgb(0, 0, 0, 0.1) ;
+.clients .images a:hover {
+     box-shadow: 0px 10px 20px rgb(0, 0, 0, 0.1);
 }
 /* Guides */
 .guides {
@@ -528,6 +528,10 @@ a {
      display: flex;
      justify-content: center;
      border-radius: 3px;
+     background: #f9f9f9;
+}
+.footer .social-link + .social-link {
+     margin-left: 16px;
 }
 .footer .social-link:hover {
      background: #ebebeb;
